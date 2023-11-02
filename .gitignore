@@ -3,3 +3,5 @@
 
 # Ignore server/node_modules/
 /server/node_modules/
+
+/server/src/.env
